@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Ian Mrozek, Launches Site"
 date: 2019-04-12
 ---
