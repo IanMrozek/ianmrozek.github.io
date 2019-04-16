@@ -1,4 +1,3 @@
 theme: jekyll-theme-tactile
 name: Ian Mrozek
-markdown: kramdown
 permalink: /posts/:year/:month/:day/:title
