@@ -5,7 +5,7 @@ title: Ian Mrozek's Blog
 	<h1>{{ page.title }}</h1>
 	<ul class="projects">
 
-	  {% for post in site.posts %}
+	  {% for post in site.projects %}
 	    <li><span>{{ projects.date | date_to_string }}</span> » <a href="{{ projects.url }}" title="{{ projects.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
